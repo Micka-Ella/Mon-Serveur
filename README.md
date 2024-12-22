@@ -1,8 +1,6 @@
  HEAD
 # Mon-Serveur
 
-# HTTP Server
-
 Bienvenue dans le projet **HTTP Server**, un serveur HTTP léger et personnalisable écrit en Java. Ce serveur est conçu pour être simple à installer, à configurer et à utiliser. Il permet de servir des fichiers HTML, CSS, JS, ainsi que des fichiers PHP si activés via l'interface.
 
 ## Installation
