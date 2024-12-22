@@ -1,0 +1,4 @@
+#Sun Dec 22 21:07:26 EAT 2024
+PORT=7777
+ROOT=htdocs
+PHP_ENABLED=false
